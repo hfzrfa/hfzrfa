@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hfzrfa/hfzrfa/output/snake.svg" alt="Snake animation" />
+
 
 ###
